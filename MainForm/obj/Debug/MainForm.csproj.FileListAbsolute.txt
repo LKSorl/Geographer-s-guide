@@ -1,0 +1,39 @@
+D:\Учеба\Coursach\Course\MainForm\bin\Debug\MainForm.exe.config
+D:\Учеба\Coursach\Course\MainForm\bin\Debug\MainForm.exe
+D:\Учеба\Coursach\Course\MainForm\bin\Debug\MainForm.pdb
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.Form1.resources
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.exe
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.pdb
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.Models.Add_ChangeForm.resources
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.Views.Form2.resources
+D:\Учеба\Coursach\Course\MainForm\obj\Debug\MainForm.Views.HelpForm.resources
+D:\Documents\Desktop\Course\MainForm\bin\Debug\MainForm.exe.config
+D:\Documents\Desktop\Course\MainForm\bin\Debug\MainForm.exe
+D:\Documents\Desktop\Course\MainForm\bin\Debug\MainForm.pdb
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.Form1.resources
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.Models.Add_ChangeForm.resources
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.Views.Form2.resources
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.Views.HelpForm.resources
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.exe
+D:\Documents\Desktop\Course\MainForm\obj\Debug\MainForm.pdb
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\bin\Debug\MainForm.exe
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\bin\Debug\MainForm.pdb
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.csprojAssemblyReference.cache
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.Models.Add_ChangeForm.resources
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.Views.Form2.resources
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.Views.HelpForm.resources
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.exe
+C:\Users\khark\Desktop\Справочник географа\Course\MainForm\obj\Debug\MainForm.pdb
